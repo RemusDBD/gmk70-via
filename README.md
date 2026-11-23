@@ -2,7 +2,7 @@
 - Release the [WestBerry VIA](https://github.com/RemusDBD/via-releases-gmk70/releases/tag/v3.0.0) for Westberry version.<br>
 
 Pref: 
-- [Offical VIA Web setting¹ w/o installation](https://www.usevia.app/)[^1] (not Westberry ver.)
+- [Offical VIA¹ Web setting w/o installation](https://www.usevia.app/)[^1] (not Westberry ver.)
 - [Offical JSON from ZUOYA²](https://github.com/RemusDBD/via-releases-gmk70/blob/main/ZUOYA%2BGMK70.json) [^2]
 - ![](https://github.com/RemusDBD/via-releases-gmk70/blob/main/manual.jpg)
 
